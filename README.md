@@ -70,6 +70,18 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ---
 
- 
-```
-# ControlPnael-Taskmanager
+## 📚 Other Projects
+
+### Course Management System
+**[Live Link](https://your-live-link.com) | [Github](https://github.com/nurjahanmim24/course-management-system)**
+
+A full-stack learning management system for managing courses, assignments, exams, and student enrollments with real-time notifications and cloud storage.
+
+- Multi-role authentication (Admin, Teacher, Student), profile management, and protected routes
+- Course creation, assignment & exam management, automatic grading, and file submissions
+- Google Drive integration, email notifications, and student progress tracking
+- Responsive UI with Tailwind CSS, toast notifications, and interactive dashboards
+
+**Technologies Used:** Laravel, PHP, Tailwind CSS, JavaScript, SQLite, Google Drive API, TinyMCE
+
+---
